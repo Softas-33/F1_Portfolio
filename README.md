@@ -1,0 +1,1 @@
+ # F1 Telemetry Portfolio Scripts en Python para procesar y visualizar telemetria de F1 (FastF1 API). ## Instalacion 1. Crear un entorno virtual: `python -m venv venv` 2. Activarlo: `venv\Scripts\activate` 3. Instalar dependencias: `pip install -r requirements.txt
